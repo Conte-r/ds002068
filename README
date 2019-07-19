@@ -10,8 +10,8 @@ Folders are organised in subject number (e.g. sub-01). Within each folder there 
 1) anat - T1-weighted structural scan
 
 2) func - contains BOLD data for: 
-- Michael Frank's probabilistic selection task, with faces used as stimuli. With 3 learning phase scans, and 3 test phase scans.
-- Gordon Logan's stop-signal, with faces used as stimuli. 
+- Probabilistic selection task (using faces ), with a learning phase and test phase. Both the learning phase and 3 test phase have 3 scans.
+- Stop-signal task using an auditory beep as stop-signal, and faces as go stimuli.
 - a PPA, FFA, LO mapper.
 
 3) dwi - 2 diffusion-weighted imaging scans, with corresponding bvec and bval. 
