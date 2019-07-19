@@ -10,7 +10,7 @@ Folders are organised in subject number (e.g. sub-01). Within each folder there 
 1) anat - T1-weighted structural scan
 
 2) func - contains BOLD data for: 
-- Probabilistic selection task (using faces ), with a learning phase and test phase. Both the learning phase and 3 test phase have 3 scans.
+- Probabilistic selection task (using faces ), with a learning phase and test phase. Both the learning phase and test phase have 3 scans.
 - Stop-signal task using an auditory beep as stop-signal, and faces as go stimuli.
 - a PPA, FFA, LO mapper.
 
