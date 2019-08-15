@@ -4,14 +4,13 @@ Jahfari, S., Ridderinkhof, K. R., Collins, A.G.E, Knapen, T., Waldorp, L. J., Fr
 
 Jahfari, S., Theeuwes, J., Knapen, T. (2019). Learning in visual regions as support for the bias in future value-driven choice. bioRxiv, 523340.
 
-
-Folders are organised in subject number (e.g. sub-01). Within each folder there are subfolders with the following:
+Folders are organised by subject number (e.g. sub-01). Within each folder there are subfolders with the following:
 
 1) anat - T1-weighted structural scan
 
-2) func - contains BOLD data for: 
-- Michael Frank's probabilistic selection task, with faces used as stimuli. With 3 learning phase scans, and 3 test phase scans.
-- Gordon Logan's stop-signal, with faces used as stimuli. 
+2) func - contains functional scans for: 
+- A probabilistic selection task with faces used as stimuli. This task includes 3 learning phase scans, and 3 test phase scans.
+- A modified stop-signal with faces as go stimuli. 
 - a PPA, FFA, LO mapper.
 
 3) dwi - 2 diffusion-weighted imaging scans, with corresponding bvec and bval. 
