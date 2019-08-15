@@ -10,7 +10,7 @@ Folders are organised by subject number (e.g. sub-01). Within each folder there 
 
 2) func - contains functional scans for: 
 - A probabilistic selection task with faces used as stimuli. This task includes 3 learning phase scans, and 3 test phase scans.
-- A modified stop-signal with faces as go stimuli. 
+- A modified stop-signal task with faces as go stimuli. 
 - a PPA, FFA, LO mapper.
 
 3) dwi - 2 diffusion-weighted imaging scans, with corresponding bvec and bval. 
